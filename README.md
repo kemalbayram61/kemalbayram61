@@ -17,13 +17,6 @@
 - :computer: I am a competitive programmer mainly at `Cybersoft`
 - :student: I’m currently learning: `Core Banking` and `Software Engineering`.
 - :nerd_face: Always `learning new things`
-
-<br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kemalbayram61&theme=algolia" alt="kemalbayram61" /></p>
-
-<br>
 <br>
 
 
