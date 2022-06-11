@@ -80,6 +80,8 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="XML" img src="https://img.shields.io/badge/xml-%23000000.svg?style=plastic&logo=xml&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -97,9 +99,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "Kaggle" src="https://img.shields.io/badge/kaggle-%234285F4.svg?style=plastic&logo=kaggle&logoColor=aquablue" /></a>
+  &emsp;
+    <a href="#"><img alt = "Colab" src="https://img.shields.io/badge/colab-%232EC866.svg?style=plastic&logo=colab&logoColor=orange" /></a>
 </p>
 
  ### 👉 Operating Systems
