@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Kemal Bayram <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Core%20banking%20Software%20Engineering;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Core%20Banking%20Software%20Engineering;DS%20|%20Algorithms%20|%20OOP%20;Artifical%20Intelligent%20|%20Machine%20Learning%20|%20Image%20Processing%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -36,6 +36,10 @@
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
