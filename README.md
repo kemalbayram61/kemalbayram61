@@ -134,14 +134,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/kemalbayram61"><img alt="kemalbayram61's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kemalbayram61&custom_title=kemalbayram61's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
 <br/>
 
 ## :trophy: Git profile Trophies
