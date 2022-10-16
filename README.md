@@ -15,7 +15,7 @@
 - :school: I am a Software Engineering graduate at Firat University
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `TEB`
-- :student: I’m currently learning: `Core Banking` and `Software Engineering`.
+- :student: I’m currently learning: `Core Banking, Artifical Intelligent, Machine Learning` and `Data Mining`.
 - :nerd_face: Always `learning new things`
 <br>
 
