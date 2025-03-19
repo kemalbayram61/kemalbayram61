@@ -54,12 +54,16 @@
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="HTML"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.w3schools.com/css/" target="CSS">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="[https://www.w3schools.com/css/](https://react.dev/)" target="React">
+    <img alt="React" src="https://img.shields.io/badge/React%20-%231572B6.svg?style=plastic&logo=react&logoColor=white">
   </a> 
 </p>
 
@@ -75,13 +79,13 @@
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="XML" img src="https://img.shields.io/badge/xml-%23000000.svg?style=plastic&logo=xml&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="AzureDevOps" img src="https://img.shields.io/badge/AzureDevOps-%23000000.svg?style=plastic&logo=microsoft&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="OpenShift" img src="https://img.shields.io/badge/OpenShift-%23000000.svg?style=plastic&logo=redhat&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -105,7 +109,7 @@
   &emsp;
     <a href="#"><img alt = "Kaggle" src="https://img.shields.io/badge/kaggle-%234285F4.svg?style=plastic&logo=kaggle&logoColor=aquablue" /></a>
   &emsp;
-    <a href="#"><img alt = "Colab" src="https://img.shields.io/badge/colab-%232EC866.svg?style=plastic&logo=colab&logoColor=orange" /></a>
+    <a href="#"><img alt = "Colab" src="https://img.shields.io/badge/colab-%232EC866.svg?style=plastic&logo=google&logoColor=orange" /></a>
 </p>
 
  ### 👉 Operating Systems
@@ -114,7 +118,9 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/MacOs-656c76?style=plastic&logo=apple&logoColor=white"></a>	
 </p>
 
 <br/>
@@ -126,16 +132,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kemalbayram61's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kemalbayram61&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kemalbayram61&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kemalbayram61" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 
-<br/>
 
-## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemalbayram61&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
